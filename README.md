@@ -17,7 +17,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [11022](https://www.acmicpc.net/problem/11022) | [A+B - 8](https://www.acmicpc.net/problem/11022) |x | x|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [11718](https://www.acmicpc.net/problem/11718) | [그대로 출력하기](https://www.acmicpc.net/problem/11718) |x |x |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [11719](https://www.acmicpc.net/problem/11719) | [그대로 출력하기 2](https://www.acmicpc.net/problem/11719) |x |x |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [11720](https://www.acmicpc.net/problem/11720) | [숫자의 합](https://www.acmicpc.net/problem/11720) | x| x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [11720](https://www.acmicpc.net/problem/11720) | [숫자의 합](https://www.acmicpc.net/problem/11720) | x| x|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [11721](https://www.acmicpc.net/problem/11721) | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) |x | x|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [2741](https://www.acmicpc.net/problem/2741) | [N 찍기](https://www.acmicpc.net/problem/2741) |x |x |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [2742](https://www.acmicpc.net/problem/2742) | [기찍 N](https://www.acmicpc.net/problem/2742) |x |x |
