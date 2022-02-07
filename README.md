@@ -1,3 +1,5 @@
+### 출력
+
 | 난이도 | 번호 | 문제 이름 | 풀이 | 푼 시간 |
 |:------:|:----:|:---------:|:---------:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | [2557](https://www.acmicpc.net/problem/2557) | [Hello World](https://www.acmicpc.net/problem/2557) |o | 2022-02-03|
@@ -29,3 +31,23 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [2446](https://www.acmicpc.net/problem/2446) | [별 찍기 - 9](https://www.acmicpc.net/problem/2446) |o |2022-02-03|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [10991](https://www.acmicpc.net/problem/10991) | [별 찍기 - 16](https://www.acmicpc.net/problem/10991) |o |2022-02-03|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [10992](https://www.acmicpc.net/problem/10992) | [별 찍기 - 17](https://www.acmicpc.net/problem/10992) |o |2022-02-03|
+
+### DFS와 BFS
+
+| 난이도 | 번호 | 문제 이름 | 풀이 | 푼 시간 |
+|:------:|:----:|:---------:|:---------:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1260](https://www.acmicpc.net/problem/1260) | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11724](https://www.acmicpc.net/problem/11724) | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1707](https://www.acmicpc.net/problem/1707) | [이분 그래프](https://www.acmicpc.net/problem/1707) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10451](https://www.acmicpc.net/problem/10451) | [순열 사이클](https://www.acmicpc.net/problem/10451) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2331](https://www.acmicpc.net/problem/2331) | [반복수열](https://www.acmicpc.net/problem/2331) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9466](https://www.acmicpc.net/problem/9466) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2667](https://www.acmicpc.net/problem/2667) | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [4963](https://www.acmicpc.net/problem/4963) | [섬의 개수](https://www.acmicpc.net/problem/4963) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7576](https://www.acmicpc.net/problem/7576) | [토마토](https://www.acmicpc.net/problem/7576) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2178](https://www.acmicpc.net/problem/2178) | [미로 탐색](https://www.acmicpc.net/problem/2178) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2146](https://www.acmicpc.net/problem/2146) | [다리 만들기](https://www.acmicpc.net/problem/2146) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1991](https://www.acmicpc.net/problem/1991) | [트리 순회](https://www.acmicpc.net/problem/1991) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11725](https://www.acmicpc.net/problem/11725) | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1167](https://www.acmicpc.net/problem/1167) | [트리의 지름](https://www.acmicpc.net/problem/1167) |x | x|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1957](https://www.acmicpc.net/problem/1957) | [트리의 지름](https://www.acmicpc.net/problem/1967) |x | x|
