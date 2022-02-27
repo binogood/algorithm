@@ -63,11 +63,11 @@
 
 | 난이도 | 번호 | 문제 이름 | 풀이 | 푼 시간 |
 |:------:|:----:|:---------:|:---------:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2751](https://www.acmicpc.net/problem/2751) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) |x |x |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11650](https://www.acmicpc.net/problem/11650) | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) |x |x |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11651](https://www.acmicpc.net/problem/11651) | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) |x |x |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [10814](https://www.acmicpc.net/problem/10814) | [나이순 정렬](https://www.acmicpc.net/problem/10814) |x |x |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10825](https://www.acmicpc.net/problem/10825) | [국영수](https://www.acmicpc.net/problem/10825) |x |x |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2751](https://www.acmicpc.net/problem/2751) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) |o |2022-02-27 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11650](https://www.acmicpc.net/problem/11650) | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) |o |2022-02-27 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11651](https://www.acmicpc.net/problem/11651) | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) |o |2022-02-27 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [10814](https://www.acmicpc.net/problem/10814) | [나이순 정렬](https://www.acmicpc.net/problem/10814) |o |2022-02-27 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10825](https://www.acmicpc.net/problem/10825) | [국영수](https://www.acmicpc.net/problem/10825) |o |2022-02-27 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [10989](https://www.acmicpc.net/problem/10989) | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) |x |x |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11652](https://www.acmicpc.net/problem/11652) | [카드](https://www.acmicpc.net/problem/11652) |x |x |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11004](https://www.acmicpc.net/problem/11004) | [K번째 수](https://www.acmicpc.net/problem/11004) |x |x |
