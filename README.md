@@ -70,9 +70,9 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10825](https://www.acmicpc.net/problem/10825) | [국영수](https://www.acmicpc.net/problem/10825) |o |2022-02-27 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [10989](https://www.acmicpc.net/problem/10989) | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) |o |2022-02-27 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11652](https://www.acmicpc.net/problem/11652) | [카드](https://www.acmicpc.net/problem/11652) |o |2022-02-27 |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11004](https://www.acmicpc.net/problem/11004) | [K번째 수](https://www.acmicpc.net/problem/11004) |x |x |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) |x |x |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9012](https://www.acmicpc.net/problem/9012) | [괄호](https://www.acmicpc.net/problem/9012) |x |x |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11004](https://www.acmicpc.net/problem/11004) | [K번째 수](https://www.acmicpc.net/problem/11004) |o |2022-02-28 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) |o |2022-02-28 |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9012](https://www.acmicpc.net/problem/9012) | [괄호](https://www.acmicpc.net/problem/9012) |o |2022-02-28 |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |x |x |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10845](https://www.acmicpc.net/problem/10845) | [큐](https://www.acmicpc.net/problem/10845) |x |x |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10866](https://www.acmicpc.net/problem/10866) | [덱](https://www.acmicpc.net/problem/10866) |x |x |
